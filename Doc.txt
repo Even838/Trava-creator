@@ -1,0 +1,7 @@
+ao iniciar escolha a "base" do trava 
+quando aparece o "?" na tela digite 
+"GOL" para inicia a crianção do trava
+
+execute em um ide lua 
+
+Versão beta 0.1 
